@@ -1,0 +1,121 @@
+.font {
+    font-family:Roboto;
+    
+}
+.chead{
+    padding: 25px;
+    width: 100%;
+    height: 15px;
+    margin: 0 auto;
+    background-color: rgba(122, 6, 49, 0.5);
+    z-index:1 ;
+    position: sticky;
+    top: 0;
+
+}
+.nav_bar{
+    display: inline;
+    
+    
+   
+  
+  }
+  a{ 
+    color:rgb(11, 11, 11);
+    margin-left: 50px;
+    text-decoration-line: none;
+  
+}
+  .relative {
+    position: relative;
+    width: 510px;
+    height: 430px;
+   
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20; 
+    margin-bottom: 50px;
+  }
+  .absolute {
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    
+  }
+  #pt{
+    text-align: right;
+    color:black;
+    text-decoration-line: none;
+    
+  }
+  .rlv{
+    position: relative;
+    width: 300px;
+    height: 150px;
+ 
+   
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+  }
+  .ft{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top:0%; 
+    right: 0%;
+    margin-top:20px;
+   
+    
+  }
+  .ct{position: absolute;
+    top:0%; 
+    left: 700px;
+    padding-right: 500px;
+    
+    text-align: justify;
+    
+}
+
+
+
+.cfooter{ 
+    position: relative;
+    background-color:  rgba(122, 6, 49, 0.5);
+    width:100% ;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    
+}
+.cmain{
+    background-color:  rgba(108, 107, 107, 0.5);
+    position: relative;
+    height: 1200px;
+    width:100% ;
+       
+}
+h3 h2 p {position: absolute;
+   
+    text-align: justify; }
+
+.cd{ padding: 25px;
+    color:rgb(11, 11, 11);
+    margin-left: 50px;
+    text-decoration-line: none;
+    font-size: 20px;
+
+}
+.right{ position: absolute;
+    top:0%; 
+   
+    left: 1200px;
+
+}
+img {border-radius:10px;}
+video{border-radius:10px;}
